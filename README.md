@@ -18,26 +18,26 @@
 
 2. **Сортировка книг по году:**
    - Добавлена возможность сортировки книг по году издания. Метод контроллера возвращает книги в отсортированном порядке.
-<details>
-  <summary>Нажмите, чтобы открыть изображение</summary>
-  <img src="https://github.com/user-attachments/assets/f4b8228a-3288-4b8c-b86d-eeb3d5165706" alt="Sorting" />
-</details>
+      <details>
+        <summary>Нажмите, чтобы открыть изображение</summary>
+        <img src="https://github.com/user-attachments/assets/f4b8228a-3288-4b8c-b86d-eeb3d5165706" alt="Sorting" />
+      </details>
 
 
 3. **Поиск книг:**
    - Создана страница для поиска книг. Пользователь может ввести начальные буквы названия книги и получить полное название книги, имя автора, а также информацию о том, у кого в данный момент находится книга.
-<details>
-  <summary>Нажмите, чтобы открыть изображение</summary>
-  <img src="https://github.com/user-attachments/assets/d8557c39-ac31-4e35-9847-61b4bae6771d" alt="Search" />
-</details>
+      <details>
+        <summary>Нажмите, чтобы открыть изображение</summary>
+        <img src="https://github.com/user-attachments/assets/d8557c39-ac31-4e35-9847-61b4bae6771d" alt="Search" />
+      </details>
 
 
 4. **Автоматическая проверка просрочки возврата книги:**
    - Реализована автоматическая проверка на просрочку возврата книги. Система уведомляет о том, если человек не вернул книгу в срок.
-<details>
-  <summary>Нажмите, чтобы открыть изображение</summary>
-  <img src="https://github.com/user-attachments/assets/be760a70-7a98-4499-adab-2df0e987bb56" alt="Сhecking the book" />
-</details>
+      <details>
+        <summary>Нажмите, чтобы открыть изображение</summary>
+        <img src="https://github.com/user-attachments/assets/be760a70-7a98-4499-adab-2df0e987bb56" alt="Сhecking the book" />
+      </details>
 
 
 ## Технологии
