@@ -10,10 +10,10 @@
 
 1. **Пагинация книг:**
    - Реализована возможность разбивки списка книг на страницы. Метод контроллера позволяет запрашивать книги с указанием номера страницы и количества книг на странице.
-   <details>
-     <summary>Нажмите, чтобы открыть изображение</summary>
-     <img src="https://github.com/user-attachments/assets/38a4198a-9a39-4721-9517-9d9cc5e462cf" alt="Pagination" />
-   </details>
+      <details>
+        <summary>Нажмите, чтобы открыть изображение</summary>
+        <img src="https://github.com/user-attachments/assets/38a4198a-9a39-4721-9517-9d9cc5e462cf" alt="Pagination" />
+      </details>
 
 
 2. **Сортировка книг по году:**
